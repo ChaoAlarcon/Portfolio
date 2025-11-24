@@ -1,0 +1,229 @@
+[{
+  "_id": {
+    "$oid": "69241cf263f80b1fdae6fa46"
+  },
+  "nombre_completo": "Álvaro Santos",
+  "titulo": "TÉCNICO DE DESARROLLO DE APLICACIONES WEB",
+  "contacto": {
+    "telefono": "662 17 21 05",
+    "email": "aaluar.s.c@gmail.com",
+    "ubicacion": "Madrid"
+  },
+  "perfil_personal": "Soy una persona trabajadora y responsable, con sólidos conocimientos de programación y alto nivel de inglés, enfocado en la resolución eficaz de los problemas que surgen para alcanzar mis objetivos. Tengo un carácter serio, lo que me permite asumir retos con disciplina y mantener la integridad en mis acciones. Tengo una mentalidad organizada, orientada a la mejora continua y me adapto con facilidad a diferentes contextos, manteniendo siempre una actitud proactiva y colaborativa.",
+  "formacion_academica": [
+    {
+      "titulo": "Grado superior en desarrollo de aplicaciones web",
+      "periodo": "2024-actualmente",
+      "institucion": "Instituto Nebrija de Formación Profesional"
+    },
+    {
+      "titulo": "GRADO EN INGENIERÍA CIVIL Y TERRITORIAL",
+      "periodo": "2022-2024",
+      "institucion": "Universidad Politéctica de Madrid"
+    }
+  ],
+  "proyectos": [
+    {
+      "nombre": "PROYECTO DE APLICACION WEB COMPLETA",
+      "descripcion": "Siguiendo una arquitectura cliente/Servidor limpia y cubriendo todas las etapas necesarias: Toma de requisitos, prototipado, pruebas y despliegue.",
+      "tecnologias_iniciales": "Node (Back) y React (Front)"
+    },
+    {
+      "nombre": "PROYECTO ELIGE TU PROPIA AVENTURA",
+      "descripcion": "Aventura interactiva hecha con el lenguaje Java. Es un juego con una interfaz de texto."
+    },
+    {
+      "nombre": "PROYECTO LENGUAJE DE MARCAS",
+      "descripcion": "Página web de un centro comercial, hecha con JavaScript"
+    }
+  ],
+  "idiomas": [
+    {
+      "idioma": "Inglés",
+      "nivel": "C1"
+    }
+  ],
+  "tecnologias": [
+    "Java",
+    "CSS",
+    "HTML",
+    "Azure",
+    "Node",
+    "React"
+  ],
+  "habilidades": [
+    "Capacidad de análisis y resolución de problemas",
+    "Organización y gestión del tiempo",
+    "Trabajo en equipo",
+    "Proactividad",
+    "Orientación a resultados"
+  ]
+},
+{
+  "_id": {
+    "$oid": "692426fc63f80b1fdae6fa48"
+  },
+  "nombre_completo": "Nicolás García-Sampedro Docampo",
+  "titulo": "TÉCNICO DE DESARROLO DE APLICACIONES WEB",
+  "contacto": {
+    "telefono": "+34 607896214",
+    "email": "nicolasgarcíasampedrodocampo@gmail.com",
+    "linkedin": "www.linkedin.com/in/nicolás-garcía-sampedro-docampo"
+  },
+  "perfil_personal": "Me considero una persona comprometida, con una sólida formación en programación y una clara orientación hacia la resolución efectiva de problemas para cumplir los objetivos establecidos. Tengo un carácter extrovertido y no me cuesta adaptarme para trabajar en equipo. Busco seguir desarrollándome profesionalmente en un entorno donde pueda aportar mis conocimientos, asumir nuevos retos y seguir creciendo tanto a nivel técnico como personal.",
+  "formacion_academica": [
+    {
+      "titulo": "FP Grado superior Desarrollo de aplicaciones web",
+      "periodo": "2024-Actual",
+      "institucion": "Instituto Nebrija Formación Profesional"
+    },
+    {
+      "titulo": "FP Grado medio Sistemas microinformáticos y redes",
+      "periodo": "2022-2024",
+      "institucion": "Centro de estudios Salesianos Ciudad de los muchachos"
+    }
+  ],
+  "experiencia_laboral": [
+    {
+      "puesto": "Operario de IT",
+      "empresa": "Zolva SL",
+      "periodo": "Abril 2024 - Junio 2024"
+    }
+  ],
+  "tecnologias": [
+    "Java",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "MYSQL",
+    "Microsoft office",
+    "Azure",
+    "Linux",
+    "React",
+    "Node"
+  ],
+  "idiomas": [
+    {
+      "idioma": "Inglés",
+      "nivel": "Medio"
+    }
+  ],
+  "habilidades": [
+    "Creatividad",
+    "Pensamiento crítico",
+    "Resolución de problemas",
+    "Resiliencia",
+    "Productividad",
+    "Buen trabajador en equipo",
+    "Perfeccionista"
+  ],
+  "proyectos": [
+    {
+      "nombre": "Proyecto de aplicación web completa",
+      "descripcion": "Siguiendo una arquitectura cliente/Servidor limpia y cubriendo todas las etapas necesarias: Toma de requisitos, prototipado, pruebas y despliegue.",
+      "tecnologias_iniciales": "Node (Back) y React (Front)"
+    },
+    {
+      "nombre": "Proyecto Gestión de base de datos de un Hospital",
+      "descripcion": "Gestionar una base de datos de un hospital mediante MySQL y Workbench."
+    },
+    {
+      "nombre": "Proyecto Warrior's of Eazima",
+      "descripcion": "Aventura interactiva hecha con el lenguaje Java. Es un juego con una interfaz de texto y con desarrollo de personajes."
+    },
+    {
+      "nombre": "Proyecto Juego Dominó",
+      "descripcion": "Juego del dominó hecho en lenguaje java para jugar de 2 a 4 personas."
+    },
+    {
+      "nombre": "Proyecto Microsite de evento",
+      "descripcion": "Página web sobre un evento real."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "692438da4e775dffa0536292"
+  },
+  "nombre_completo": "Chao An Alarcón Chen",
+  "titulo": "TÉCNICO SUPERIOR DE DESARROLLO DE APLICACIONES WEB",
+  "contacto": {
+    "telefono": "689 846 699",
+    "email": "chaoalarcon01@gmail.com",
+    "portfolio": "chaoalarcon.myportfolio.com",
+    "ubicacion": "Madrid, España",
+    "linkedin": "www.linkedin.com/in/chao-alarcón"
+  },
+  "perfil_personal": "Soy un estudiante de desarrollo de aplicaciones web con un buen manejo de diversos lenguajes de programación y programas de Adobe como Photoshop, Premiere Pro, After Effects y Lightroom. Soy una persona creativa, positiva y comunicativa, orientada al público. Apasionada por tecnología, fotografía, diseño, viajes y deportes. Comprometida con el crecimiento personal y profesional.",
+  "formacion_academica": [
+    {
+      "titulo": "Ciclo Formativo de Grado Superior, Desarrollo de aplicaciones web",
+      "periodo": "septiembre 2024 - Actualidad",
+      "institucion": "Instituto Nebrija de Formación Profesional"
+    }
+  ],
+  "experiencia_laboral": [
+    {
+      "puesto": "Profesor de Chino Mandarín",
+      "empresa": "Preply",
+      "periodo": "junio 2023 - octubre 2023 (5 meses)"
+    },
+    {
+      "puesto": "Profesor voluntario de inglés para estudiantes de primaria, diseñando lecciones adaptadas",
+      "empresa": "Overseas Community Affairs Council, Taiwan (R.O.C.), Hsinchu, Taiwán (Voluntariado)",
+      "periodo": "julio 2025 (1 mes)"
+    }
+  ],
+  "proyectos": [
+    {
+      "nombre": "Centro Comercial Plaza Río 2 Sitio Web",
+      "descripcion": "Desarrollo de un sitio web informativo para el centro comercial Plaza Río 2, con diseño moderno y responsivo usando HTML5, CSS y Bootstrap. Navegación intuitiva, contenido actualizado sobre tiendas, servicios y eventos, optimizado para móviles y accesibilidad.",
+      "tecnologias": [
+        "HTML5",
+        "CSS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "nombre": "NebriAcademy",
+      "descripcion": "Aplicación web de E-Learning completa, siguiendo una arquitectura cliente/Servidor limpia y cubriendo todas las etapas necesarias: Toma de requisitos, prototipado, pruebas y despliegue.",
+      "tecnologias_iniciales": "Node (Back) y React (Front)"
+    }
+  ],
+  "idiomas": [
+    {
+      "idioma": "Español",
+      "nivel": "Nativo"
+    },
+    {
+      "idioma": "Chino",
+      "nivel": "Nativo"
+    },
+    {
+      "idioma": "Inglés",
+      "nivel": "Nivel Alto"
+    }
+  ],
+  "competencias": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Node",
+    "React",
+    "Java",
+    "SQL",
+    "Premiere Pro",
+    "Photoshop",
+    "After Effects",
+    "Lightroom",
+    "Illustrator",
+    "Adobe XD",
+    "Figma"
+  ],
+  "habilidades": [
+    "Comunicación",
+    "Liderazgo",
+    "Empatía",
+    "Resolución de problemas"
+  ]
+}]

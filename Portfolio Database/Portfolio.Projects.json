@@ -1,0 +1,119 @@
+[{
+  "_id": {
+    "$oid": "656112d1b7f940a023a1d9c0"
+  },
+  "nombreProyecto": "PROYECTO DE APLICACION WEB COMPLETA",
+  "fecha": "2024",
+  "descripcion": "Siguiendo una arquitectura cliente/Servidor limpia y cubriendo todas las etapas necesarias: Toma de requisitos, prototipado, pruebas y despliegue.",
+  "enlace": null,
+  "tecnologias": [
+    "Node",
+    "React"
+  ],
+  "autor": {
+    "nombre_autor": "Álvaro Santos Calvo",
+    "e_mail_autor": "aaluar.s.c@gmail.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "656112d1b7f940a023a1d9c1"
+  },
+  "nombreProyecto": "PROYECTO ELIGE TU PROPIA AVENTURA",
+  "fecha": "2024",
+  "descripcion": "Aventura interactiva hecha con el lenguaje Java. Es un juego con una interfaz de texto.",
+  "enlace": null,
+  "tecnologias": [
+    "Java"
+  ],
+  "autor": {
+    "nombre_autor": "Álvaro Santos Calvo",
+    "e_mail_autor": "aaluar.s.c@gmail.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "656112d1b7f940a023a1d9c2"
+  },
+  "nombreProyecto": "Proyecto Gestión de base de datos de un Hospital",
+  "fecha": "2024",
+  "descripcion": "Gestionar una base de datos de un hospital mediante MySQL y Workbench.",
+  "enlace": null,
+  "tecnologias": [
+    "MySQL",
+    "Workbench"
+  ],
+  "autor": {
+    "nombre_autor": "Nicolás García-Sampedro Docampo",
+    "e_mail_autor": "nicolasgarcíasampedrodocampo@gmail.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "656112d1b7f940a023a1d9c3"
+  },
+  "nombreProyecto": "Proyecto Warrior's of Eazima",
+  "fecha": "2024",
+  "descripcion": "Aventura interactiva hecha con el lenguaje Java. Es un juego con una interfaz de texto y con desarrollo de personajes.",
+  "enlace": null,
+  "tecnologias": [
+    "Java"
+  ],
+  "autor": {
+    "nombre_autor": "Nicolás García-Sampedro Docampo",
+    "e_mail_autor": "nicolasgarcíasampedrodocampo@gmail.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "656112d1b7f940a023a1d9c4"
+  },
+  "nombreProyecto": "Proyecto Microsite de evento",
+  "fecha": "2024",
+  "descripcion": "Página web sobre un evento real.",
+  "enlace": null,
+  "tecnologias": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "autor": {
+    "nombre_autor": "Nicolás García-Sampedro Docampo",
+    "e_mail_autor": "nicolasgarcíasampedrodocampo@gmail.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "656112d1b7f940a023a1d9c5"
+  },
+  "nombreProyecto": "Centro Comercial Plaza Río 2 Sitio Web",
+  "fecha": "2024",
+  "descripcion": "Desarrollo de un sitio web informativo para el centro comercial Plaza Río 2, con diseño moderno y responsivo.",
+  "enlace": null,
+  "tecnologias": [
+    "HTML5",
+    "CSS",
+    "Bootstrap"
+  ],
+  "autor": {
+    "nombre_autor": "Chao An Alarcón Chen",
+    "e_mail_autor": "chaoalarcon01@gmail.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "656112d1b7f940a023a1d9c6"
+  },
+  "nombreProyecto": "NebriAcademy",
+  "fecha": "2024",
+  "descripcion": "Aplicación web de E-Learning completa, siguiendo una arquitectura cliente/Servidor limpia y cubriendo todas las etapas necesarias.",
+  "enlace": null,
+  "tecnologias": [
+    "Node",
+    "React"
+  ],
+  "autor": {
+    "nombre_autor": "Chao An Alarcón Chen",
+    "e_mail_autor": "chaoalarcon01@gmail.com"
+  }
+}]

@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "656112d1b7f940a023a1d9d0"
+  },
+  "nombre": "Interesado Empresa",
+  "e_mail": "empresa.ejemplo@contacto.com",
+  "mensaje": "Estamos interesados en los perfiles de los desarrolladores para un nuevo proyecto web.",
+  "fecha_envio": {
+    "$date": "2025-11-24T11:50:00.000Z"
+  }
+}]
